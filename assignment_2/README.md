@@ -4,8 +4,9 @@
 
 # Project status: DESIGN
 
-# Laboratorio_di_Reti-A.A.2022-23
-> Assignments of the Network Laboratory of the Computer Science course of the University of Pisa.
+# Assignment 2
+
+> Simulazione di un ufficio postale.
 
 ---
 
@@ -15,7 +16,16 @@
 - [License](#license)
 
 # How to get started
-Each assignment is related to a folder of the same name in the project.
+*under development*
+
+### testing
+*under development*
+
+### compilation
+*under development*
+
+## How to install
+*under development*
 
 ## Documentation
 For the documentation see the notes inside the source code or [wiki page](https://github.com/JoeFerri/Laboratorio_di_Reti-A.A.2022-23/wiki)
@@ -25,6 +35,9 @@ For the documentation see the notes inside the source code or [wiki page](https:
 
 [ITA](code_of_conduct-ita.md)
 
+# examples
+*under development*
+
 # License 
 
 ## General license 
@@ -33,12 +46,12 @@ GNU Affero General Public License v3.0 only
 
   Copyright (C) 2022 Giuseppe Ferri
 
-  Laboratorio_di_Reti-A.A.2022-23 is free software: you can redistribute it and/or modify
+  assignment_2 is free software: you can redistribute it and/or modify
   it under the terms of the GNU Affero General Public License as
   published by the Free Software Foundation, either version 3 of the
   License, or (at your option) any later version.
   
-  Laboratorio_di_Reti-A.A.2022-23 is distributed in the hope that it will be useful,
+  assignment_2 is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU Affero General Public License for more details.
