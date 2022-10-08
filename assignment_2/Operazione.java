@@ -5,6 +5,7 @@ package assignment_2;
 
 
 import java.util.concurrent.Callable;
+import java.util.concurrent.ThreadLocalRandom;
 
 
 /**
@@ -21,7 +22,7 @@ public class Operazione<E> implements Callable<Long> {
   private final E element; // il possessore dell'operazione
   
   public Operazione (E element) {
-    this.time = Utils.getRndm(DURATION_MIN, DURATION_MAX);
+    this.time = ThreadLocalRandom.current().nextLong(DURATION_MIN, DURATION_MAX);
     this.element = element;
   }
   
