@@ -1,5 +1,5 @@
 /**
- * @author Giuseppe Ferri
+ * SPDX-License-Identifier: AGPL-3.0-only
  */
 package assignment_2;
 
@@ -17,6 +17,8 @@ import java.util.concurrent.TimeoutException;
  * Un UfficioPostale caratterizzato da un Salone
  * tra l'Ingresso e l'Interno, e da una Saletta interna
  * adiacente agli sportelli.
+ * 
+ * @author Giuseppe Ferri
  */
 public class UfficioPostale {
 

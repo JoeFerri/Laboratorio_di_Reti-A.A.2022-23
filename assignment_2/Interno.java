@@ -1,5 +1,5 @@
 /**
- * @author Giuseppe Ferri
+ * SPDX-License-Identifier: AGPL-3.0-only
  */
 package assignment_2;
 
@@ -11,6 +11,8 @@ import java.util.concurrent.TimeUnit;
 /**
  * L'Interno dell'UfficioPostale composto dagli sportelli
  * e da una piccola Saletta di attesa.
+ * 
+ * @author Giuseppe Ferri
  */
 public class Interno extends ThreadPoolExecutor {
 

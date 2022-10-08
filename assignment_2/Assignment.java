@@ -22,6 +22,8 @@ package assignment_2;
  * e una saletta interna.
  * L'ufficio comunica con l'esterno tramite un salone grande
  * il quale a sua volta riceve clienti attraverso un ingresso.
+ * 
+ * @author Giuseppe Ferri
  */
 public class Assignment {
 

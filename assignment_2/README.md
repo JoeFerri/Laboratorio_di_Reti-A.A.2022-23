@@ -6,8 +6,9 @@
 
 # Assignment 2
 
-> Simulazione di un ufficio postale.
-
+> Simulation of a post office.
+> The program simulates a post office with 4 counters and an internal room.
+> The office communicates with the outside through a large hall which in turn receives customers through an entrance.
 ---
 
 # Index

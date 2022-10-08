@@ -1,5 +1,5 @@
 /**
- * @author Giuseppe Ferri
+ * SPDX-License-Identifier: AGPL-3.0-only
  */
 package assignment_2;
 
@@ -10,6 +10,8 @@ import java.util.concurrent.Callable;
 /**
  * Un oggetto Operazione è un servizio posseduto da un oggeto di tipo E
  * che deve essere svolto da uno sportello (Thread).
+ * 
+ * @author Giuseppe Ferri
  */
 public class Operazione<E> implements Callable<Long> {
 

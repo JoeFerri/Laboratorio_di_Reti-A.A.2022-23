@@ -1,5 +1,5 @@
 /**
- * @author Giuseppe Ferri
+ * SPDX-License-Identifier: AGPL-3.0-only
  */
 package assignment_2;
 
@@ -15,6 +15,8 @@ import java.util.stream.Collectors;
 /**
  * Un Salone dell'UfficioPostale adiacente alla Saletta interna.
  * Ha una capacità illimitata.
+ * 
+ * @author Giuseppe Ferri
  */
 public class Salone extends LinkedBlockingQueue<Operabile<?>> {
   

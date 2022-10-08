@@ -1,5 +1,5 @@
 /**
- * @author Giuseppe Ferri
+ * SPDX-License-Identifier: AGPL-3.0-only
  */
 package assignment_2;
 
@@ -9,6 +9,8 @@ import java.util.concurrent.ArrayBlockingQueue;
 
 /**
  * La Saletta interna dell'UfficioPostale.
+ * 
+ * @author Giuseppe Ferri
  */
 public class Saletta extends ArrayBlockingQueue<Runnable> {
 

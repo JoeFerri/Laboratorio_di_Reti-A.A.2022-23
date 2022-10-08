@@ -1,5 +1,5 @@
 /**
- * @author Giuseppe Ferri
+ * SPDX-License-Identifier: AGPL-3.0-only
  */
 package assignment_2;
 
@@ -9,6 +9,8 @@ package assignment_2;
  * l'Esterno con il Salone, e si occupa
  * del passaggio dei clienti dal primo al secondo.
  * Ad ogni Cliente viene assegnato un numerino (long).
+ * 
+ * @author Giuseppe Ferri
  */
 public class Ingresso extends Thread {
 
