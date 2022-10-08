@@ -22,10 +22,15 @@
 *under development*
 
 ### compilation
-*under development*
+    $ git clone https://github.com/JoeFerri/Laboratorio_di_Reti-A.A.2022-23
+    $ cd ../path/to/the/file
+    $ javac -d ./bin/ ./assignment_2/*.java
 
-## How to install
-*under development*
+### running
+    $ cd ../path/to/the/file/bin
+    $ java assignment_2.Assignment
+#### with enabled assert:
+    $ java -ea assignment_2.Assignment
 
 ## Documentation
 For the documentation see the notes inside the source code or [wiki page](https://github.com/JoeFerri/Laboratorio_di_Reti-A.A.2022-23/wiki)
