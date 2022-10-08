@@ -11,17 +11,6 @@
 > The office communicates with the outside through a large hall which in turn receives customers through an entrance.
 ---
 
-# Index
-
-- [How to get started](#how-to-get-started)
-- [License](#license)
-
-# How to get started
-*under development*
-
-### testing
-*under development*
-
 ### compilation
     $ git clone https://github.com/JoeFerri/Laboratorio_di_Reti-A.A.2022-23
     $ cd ../path/to/the/file
@@ -42,7 +31,7 @@ For the documentation see the notes inside the source code or [wiki page](https:
 [ITA](code_of_conduct-ita.md)
 
 # examples
-*under development*
+[Output su terminale](output.example.md)
 
 # License 
 
