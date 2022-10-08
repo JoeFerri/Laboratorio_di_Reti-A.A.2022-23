@@ -19,6 +19,7 @@ public class Ingresso extends Thread {
   public final static long NESSUN_NUMERINO = 0;
   private static long numerino = 0;
 
+  //? durata minima e massima dell'apertura dell'ingresso
   private final long DURATION_MIN = 10; // millisecondi
   private final long DURATION_MAX = 80; // millisecondi
   
@@ -36,7 +37,7 @@ public class Ingresso extends Thread {
   public synchronized void close () {
     this.is_open = false;
     Utils.printflush("\nIngresso tra Salone ed Esterno chiuso.\n\n");
-    
+
     this.salone.libera();
   }
 
@@ -48,8 +49,10 @@ public class Ingresso extends Thread {
     Cliente cliente = null;
     while (this.is_open) {
       try {
+        // un cliente passa dall'esterno all'ingresso
         cliente = this.esterno.get();
         cliente.setNumerino(++Ingresso.numerino);
+        // il cliente passa dall'ingresso al salone grande
         this.salone.put(cliente);
         Utils.printflush("%s entrato nel salone.\n",cliente);
         // simulo un ritardo tra l'ingresso dei clienti

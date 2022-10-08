@@ -31,6 +31,10 @@ public class Salone extends LinkedBlockingQueue<Operabile<?>> {
     super();
   }
   
+  /*
+   * Il metodo put() deve essere modificato per gestire
+   * la condizione di apertura/chiusura del salone.
+   */
   @Override
   public void put(Operabile<?> cl) throws InterruptedException {
     lock.lock();
