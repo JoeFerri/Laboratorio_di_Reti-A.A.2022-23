@@ -7,6 +7,7 @@
 # Assignment 3
 
 > Simulation of the use of a university laboratory.
+>
 > A laboratory containing 20 computers is created.
 >
 > Each user can access a computer by requesting access to the tutor.
