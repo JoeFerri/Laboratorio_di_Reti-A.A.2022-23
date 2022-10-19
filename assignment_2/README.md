@@ -20,6 +20,9 @@
 #### with enabled assert:
     $ java -ea assignment_2.Assignment
 
+# examples
+[Output su terminale](output.example.md)
+
 ## Documentation
 For the documentation see the notes inside the source code or [wiki page](https://github.com/JoeFerri/Laboratorio_di_Reti-A.A.2022-23/wiki)
 
@@ -27,9 +30,6 @@ For the documentation see the notes inside the source code or [wiki page](https:
 [ENG](code_of_conduct-eng.md)
 
 [ITA](code_of_conduct-ita.md)
-
-# examples
-[Output su terminale](output.example.md)
 
 # License 
 

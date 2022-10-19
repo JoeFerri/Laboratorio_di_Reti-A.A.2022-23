@@ -54,18 +54,20 @@
     $ java -cp ".:./utils.jar" assignment_3.Assignment # Unix
 #### with enabled assert:
     $ java -ea -cp ".:./utils.jar" assignment_3.Assignment
-#### examples:
-> 1 student, 2 undergraduates, 3 professors:
+
+# examples
+### 1 student, 2 undergraduates, 3 professors:
 
     $ java -cp ".:./utils.jar" assignment_3.Assignment 1 2 3
 
-> debug prints and tables on stdout:
+### debug prints and tables on stdout:
 
     $ java -cp ".:./utils.jar" assignment_3.Assignment 1 0 0 --table --debug
 
-> 1 student, 2 undergraduates, 3 professors, debug printouts and stderr redirection on file:
+### 1 student, 2 undergraduates, 3 professors, debug printouts and stderr redirection on file:
 
     $ java -cp ".:./utils.jar" assignment_3.Assignment --debug 1 --stderr-to-file 2 3
+    
 
 ## Documentation
 For the documentation see the notes inside the source code or [wiki page](https://github.com/JoeFerri/Laboratorio_di_Reti-A.A.2022-23/wiki)
@@ -74,9 +76,6 @@ For the documentation see the notes inside the source code or [wiki page](https:
 [ENG](code_of_conduct-eng.md)
 
 [ITA](code_of_conduct-ita.md)
-
-# examples
-*under development*
 
 # License 
 
