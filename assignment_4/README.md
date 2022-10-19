@@ -86,7 +86,7 @@ and the respective individual file reports.
     $ java assignment_4.Assignment --test-all-text-txt
 
 ## Process flow map
-<a href="https://raw.githubusercontent.com/JoeFerri/Laboratorio_di_Reti-A.A.2022-23/main/assignment_4/assets/schema.svg" onclick="return ! window.open(this.href);">Look at the map!</a>
+<a href="https://raw.githubusercontent.com/JoeFerri/Laboratorio_di_Reti-A.A.2022-23/main/assignment_4/assets/schema.svg">Direct link!</a>
 ---
 <img
   src="assets/schema.svg"
