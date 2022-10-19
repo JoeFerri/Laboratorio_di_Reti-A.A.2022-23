@@ -25,11 +25,11 @@
 > 
 > ## The program also accepts the following extra parameters:
 >
-> | parameter | description|
-> | --------- | ---------- |
-> | `--debug`   | To enable verbose debugging printing and the number of occurrences for each individual file |
-> | `--test-all-text-txt` | Passed arguments are ignored and all files in the assignment_4/data folder are processed |
-> | `--normalize` | Characters are normalized. After normalization `'a' == 'A' == 'à' == 'á'` Without normalization (default) `'a' == 'A'`, but `'à'` is ignored |
+> | parameter             | description|
+> | --------------------- | ---------- |
+> | `--debug`             | To enable verbose debugging printing<br>and the number of occurrences for each individual file |
+> | `--test-all-text-txt` | Passed arguments are ignored and all files<br>in the assignment_4/data folder are processed |
+> | `--normalize`         | Characters are normalized.<br>After normalization `'a' == 'A' == 'à' == 'á'`<br>Without normalization (default) `'a' == 'A'`, but `'à'` is ignored |
 > 
 > ### the following parameters set the file encoding:
 > |                |
