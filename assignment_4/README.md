@@ -16,7 +16,7 @@
 >  
 >     <a>,<number of occurrences>\n
 >     <b>,<number of occurrences>\n
->               ...         \n
+>                  ...           \n
 >     <z>,<number of occurrences>
 > 
 > If there is an error in one or more files,
