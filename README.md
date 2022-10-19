@@ -2,8 +2,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/JoeFerri/Laboratorio_di_Reti-A.A.2022-23)](https://github.com/JoeFerri/Laboratorio_di_Reti-A.A.2022-23/issues)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
 
-# Project status: DESIGN
-
 # Laboratorio_di_Reti-A.A.2022-23
 > Assignments of the Network Laboratory of the Computer Science course of the University of Pisa.
 
