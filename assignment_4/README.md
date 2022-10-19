@@ -88,12 +88,14 @@ and the respective individual file reports.
 ## Process flow map
 <a href="https://raw.githubusercontent.com/JoeFerri/Laboratorio_di_Reti-A.A.2022-23/main/assignment_4/assets/schema.svg">Direct link!</a>
 ---
-<img
-  src="assets/schema.svg"
-  alt="Process flow map."
-  title="Process flow map."
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-
+<picture>
+  <img
+    src="assets/schema.svg"
+    alt="Process flow map."
+    title="Process flow map."
+    style="display: inline-block; margin: 0 auto; max-width: 300px">
+</picture>
+    
 ## Documentation
 For the documentation see the notes inside the source code or [wiki page](https://github.com/JoeFerri/Laboratorio_di_Reti-A.A.2022-23/wiki)
 
