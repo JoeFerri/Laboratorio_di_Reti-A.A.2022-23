@@ -30,11 +30,11 @@
 > | `--normalize`         | Characters are normalized.<br>After normalization `'a' == 'A' == 'à' == 'á'`<br>Without normalization (default) `'a' == 'A'`, but `'à'` is ignored |
 > 
 > ### the following parameters set the file encoding:
-> |                |
-> | -------------- |
-> | `--iso-8859-1` |
-> | `--us-ascii`   |
-> | `--utf-16`     |
+> | parameter      | description|
+> | -------------- | ---------- |
+> | `--iso-8859-1` | ISO Latin Alphabet No. (8 bit) |
+> | `--us-ascii`   | Seven-bit ASCII, a.k.a. |
+> | `--utf-16`     | Sixteen-bit UCS Transformation Format,<br>byte order identified by an optional byte-order mark|
 ---
 
 ## IMPLEMENTATION:
