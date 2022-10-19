@@ -90,7 +90,7 @@ and the respective individual file reports.
 ---
 <picture>
   <img
-    src="assets/schema.svg"
+    src="assets/schema.png"
     alt="Process flow map."
     title="Process flow map."
     style="display: inline-block; margin: 0 auto; max-width: 300px">
