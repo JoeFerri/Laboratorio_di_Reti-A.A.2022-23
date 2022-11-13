@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Package-Name: assignment_6
+Class-Path: ./lib/gf.jar ./fonts/
+Main-Class: assignment_6.Assignment
+Created-By: Giuseppe Ferri
+Built-By: Giuseppe Ferri
