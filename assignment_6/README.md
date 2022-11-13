@@ -5,25 +5,23 @@
 # Assignment 6
 # Dungeon adventures
 
-<center>
 <img
   src="assets/screenshot-1.png"
   alt="Start Window"
   title="Start Window"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 250px">
 
 <img
   src="assets/screenshot-2.png"
   alt="Heroes Window"
   title="Heroes Window"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 250px">
   
 <img
   src="assets/screenshot-3.png"
   alt="Game Window"
   title="Game Window"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-</center>
+  style="display: inline-block; margin: 0 auto; max-width: 250px">
 
 > # Gameplay
 > 
