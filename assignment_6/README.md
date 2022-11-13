@@ -33,11 +33,11 @@
 >
 > A tie occurs if both the player and the monster have 0 health after a fight.
 >
-> The game is divided into games, each game is in turn divided into rounds.
+> The game is divided into matches, each matches is in turn divided into rounds.
 >
 > At each round the player can choose whether to fight or drink the potion, in the latter case his health is increased in proportion to the potion drunk.
 >
-> The level of the monster faced increases as you progress through the games.
+> The level of the monster faced increases as you progress through the matches.
 >
 ---
 
