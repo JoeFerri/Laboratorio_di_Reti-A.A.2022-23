@@ -99,9 +99,9 @@
 
 ## Process flow map
 <p>
-<a href="https://raw.githubusercontent.com/JoeFerri/Laboratorio_di_Reti-A.A.2022-23/main/assignment_6/assets/schema.svg">Direct link schema.svg</a>
+<a href="https://raw.githubusercontent.com/JoeFerri/Laboratorio_di_Reti-A.A.2022-23/main/assignment_6/assets/schema.svg">Direct link schema.svg</a> <b>(issue: no pictures are shown)</b>
 <br>
-<a href="https://raw.githubusercontent.com/JoeFerri/Laboratorio_di_Reti-A.A.2022-23/main/assignment_6/assets/schema.png">Direct link schema.png</a>
+<a href="https://raw.githubusercontent.com/JoeFerri/Laboratorio_di_Reti-A.A.2022-23/main/assignment_6/assets/schema.png">Direct link schema.png</a> <b>(pictures ok)</b>
 <br><br>
 <img
   src="assets/schema.svg"
