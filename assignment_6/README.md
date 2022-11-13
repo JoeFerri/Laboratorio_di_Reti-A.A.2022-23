@@ -5,6 +5,26 @@
 # Assignment 6
 # Dungeon adventures
 
+<center>
+<img
+  src="assets/screenshot-1.png"
+  alt="Start Window"
+  title="Start Window"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+<img
+  src="assets/screenshot-2.png"
+  alt="Heroes Window"
+  title="Heroes Window"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+<img
+  src="assets/screenshot-3.png"
+  alt="Game Window"
+  title="Game Window"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+</center>
+
 > # Gameplay
 > 
 > The player loads his profile by entering his username and password or creates one.
